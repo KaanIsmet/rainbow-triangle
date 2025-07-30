@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++20 -Wl,--dependency-file=CMakeFiles/RainbowTriangle.dir/link.d CMakeFiles/RainbowTriangle.dir/src/main.cpp.o CMakeFiles/RainbowTriangle.dir/src/gl.c.o -o bin/RainbowTriangle  /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so -lglfw -ldl

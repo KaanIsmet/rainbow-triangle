@@ -1,0 +1,3 @@
+/home/kaan/Desktop/projects/c++/graphics-programming/opengl/rainbow-triangle/build/CMakeFiles/RainbowTriangle.dir
+/home/kaan/Desktop/projects/c++/graphics-programming/opengl/rainbow-triangle/build/CMakeFiles/edit_cache.dir
+/home/kaan/Desktop/projects/c++/graphics-programming/opengl/rainbow-triangle/build/CMakeFiles/rebuild_cache.dir
